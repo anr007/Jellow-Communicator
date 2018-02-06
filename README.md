@@ -1,4 +1,6 @@
-# Jellow 
+# Jellow
+[![Build Status](https://travis-ci.org/anr007/Jellow-Communicator.svg)](https://travis-ci.org/anr007/Jellow-Communicator)
+
 [Jellow Communicator](http://www.dsource.in/tool/jellow/) is a friendly Augmentative and Alternative Communication (AAC)
 solution that uses icons to aid communication in people learning to speak or with
 difficulty with speech and language.The easy-to-learn interface and visually appealing icons of Jellow make it is an ideal solution for beginner-level communicators.
