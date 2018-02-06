@@ -1,5 +1,7 @@
 # Jellow
-[![Build Status](https://travis-ci.org/anr007/Jellow-Communicator.svg)](https://travis-ci.org/anr007/Jellow-Communicator)
+[![Build Status](https://travis-ci.org/anr007/Jellow-Communicator.svg?branch=master)]
+(https://travis-ci.org/anr007/Jellow-Communicator)
+[![Coverage Status](https://coveralls.io/repos/github/anr007/Jellow-Communicator/badge.svg?branch=master)](https://coveralls.io/github/anr007/Jellow-Communicator?branch=master)
 
 [Jellow Communicator](http://www.dsource.in/tool/jellow/) is a friendly Augmentative and Alternative Communication (AAC)
 solution that uses icons to aid communication in people learning to speak or with
